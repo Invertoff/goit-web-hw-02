@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "projectone"
+version = "1.0"
+description = "address_book"
+authors = ["Prystupa  Oleksandr"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
